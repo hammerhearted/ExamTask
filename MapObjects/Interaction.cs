@@ -24,7 +24,7 @@ namespace MapObjects
 
             if (mapObject is Mine)
             {
-                if (player.CanBeat(((Mine)mapObject).Army))
+                if (player.CanBeat(((Mine)mapObject).Army)) 
                 {
                     ((Mine)mapObject).Owner = player.Id;
                     player.Consume(((Mine)mapObject).Treasure);
