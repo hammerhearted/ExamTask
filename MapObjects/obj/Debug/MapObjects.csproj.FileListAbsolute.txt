@@ -1,0 +1,6 @@
+C:\Users\НАТАША\Desktop\MapObjects\MapObjects\bin\Debug\MapObjects.dll
+C:\Users\НАТАША\Desktop\MapObjects\MapObjects\bin\Debug\MapObjects.pdb
+C:\Users\НАТАША\Desktop\MapObjects\MapObjects\obj\Debug\MapObjects.csprojAssemblyReference.cache
+C:\Users\НАТАША\Desktop\MapObjects\MapObjects\obj\Debug\MapObjects.csproj.CoreCompileInputs.cache
+C:\Users\НАТАША\Desktop\MapObjects\MapObjects\obj\Debug\MapObjects.dll
+C:\Users\НАТАША\Desktop\MapObjects\MapObjects\obj\Debug\MapObjects.pdb
